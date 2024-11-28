@@ -1,7 +1,3 @@
-Voici un **README** généré pour l'organisation GitHub basée sur le cahier des charges fourni, incluant trois dépôts : API, Conception et Documentation.
-
----
-
 # Plateforme de gestion de projets collaboratifs - Organisation GitHub
 
 Bienvenue dans l'organisation GitHub dédiée à la conception et au développement de la plateforme de gestion de projets collaboratifs. Ce projet est basé sur la méthode SCRUM et vise à offrir un outil performant pour les équipes agiles.
@@ -54,7 +50,3 @@ Ce projet est sous licence [MIT](https://opensource.org/licenses/MIT). Voir le f
 ## Contact
 
 Pour toute question, veuillez contacter [nom de l'administrateur] ou ouvrir une issue dans le dépôt concerné.
-
----
-
-Si vous souhaitez des modifications ou des ajouts, n'hésitez pas à préciser !

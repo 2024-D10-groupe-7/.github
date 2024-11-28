@@ -19,7 +19,7 @@ Contient le code source de l'API REST, développée en Java 17 avec Spring Boot.
   - Backlog, sprints, tâches, et gestion des bugs
 - **Spécifications des endpoints** disponibles dans la documentation.
 
-### 2. [Conception](https://github.com/organization/conception)
+### 2. [Conception](https://github.com/2024-D10-groupe-7/conception)
 Contient les éléments de conception UML et les diagrammes nécessaires au développement de l'application.
 
 - **Contenu** :

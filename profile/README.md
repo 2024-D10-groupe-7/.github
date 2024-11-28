@@ -27,7 +27,7 @@ Contient les éléments de conception UML et les diagrammes nécessaires au dév
   - Diagrammes de classes et diagrammes entités-relations
   - Spécifications fonctionnelles détaillées des user stories
 
-### 3. [Documentation](https://github.com/organization/documentation)
+### 3. [Documentation](https://github.com/2024-D10-groupe-7/docs)
 Contient la documentation technique et fonctionnelle du projet.
 
 - **Contenu** :

@@ -4,7 +4,7 @@ Bienvenue dans l'organisation GitHub dédiée à la conception et au développem
 
 ## Dépôts principaux
 
-### 1. [API](https://github.com/organization/api)
+### 1. [API](https://github.com/2024-D10-groupe-7/api)
 Contient le code source de l'API REST, développée en Java 17 avec Spring Boot.
 
 - **Technologies utilisées** :

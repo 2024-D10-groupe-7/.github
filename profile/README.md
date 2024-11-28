@@ -1,6 +1,16 @@
-# Plateforme de gestion de projets collaboratifs - Organisation GitHub
+# Plateforme de gestion de projets collaboratifs
 
-Bienvenue dans l'organisation GitHub dédiée à la conception et au développement de la plateforme de gestion de projets collaboratifs. Ce projet est basé sur la méthode SCRUM et vise à offrir un outil performant pour les équipes agiles.
+Bienvenue dans l'organisation GitHub dédiée à la conception et au développement d'une plateforme de gestion de projets collaboratifs. Ce projet est basé sur la méthode SCRUM et vise à offrir un outil performant pour les équipes agiles.
+
+## Contexte
+
+Ce projet est réaliser dans le cadre d'une formation Lead Developpeur chez [@DiginamicFormation](https://github.com/DiginamicFormation).
+
+## Équipe
+
+- FURNARI Florian alias [@Vellass](https://github.com/Velass) : Concepteur Développeur
+- PREAUX Lucas alais [@lpreaux](https://github.com/lpreaux) : Concepteur Développeur
+- BONNAMY Richard alais [@rbonnamy](https://github.com/rbonnamy) : Client (formateur [@DiginamicFormation](https://github.com/DiginamicFormation))
 
 ## Dépôts principaux
 

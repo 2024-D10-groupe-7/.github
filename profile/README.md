@@ -1,16 +1,18 @@
-# Plateforme de gestion de projets collaboratifs
+# ScrumTogether
 
-Bienvenue dans l'organisation GitHub dédiée à la conception et au développement d'une plateforme de gestion de projets collaboratifs. Ce projet est basé sur la méthode SCRUM et vise à offrir un outil performant pour les équipes agiles.
+**SCRUM en équipe, succès en rythme**
+
+Bienvenue dans l'organisation GitHub dédiée à la conception et au développement de **ScrumTogether**, une plateforme de gestion de projets collaboratifs basée sur la méthode SCRUM. Ce projet vise à offrir un outil performant pour les équipes agiles, permettant de gérer efficacement les projets, les sprints et les tâches.
 
 ## Contexte
 
-Ce projet est réaliser dans le cadre d'une formation Lead Developpeur chez [@DiginamicFormation](https://github.com/DiginamicFormation).
+Ce projet est réalisé dans le cadre d'une formation Lead Développeur chez [@DiginamicFormation](https://github.com/DiginamicFormation).
 
 ## Équipe
 
-- FURNARI Florian alias [@Vellass](https://github.com/Velass) : Concepteur Développeur
-- PREAUX Lucas alais [@lpreaux](https://github.com/lpreaux) : Concepteur Développeur
-- BONNAMY Richard alais [@rbonnamy](https://github.com/rbonnamy) : Client (formateur [@DiginamicFormation](https://github.com/DiginamicFormation))
+- **FURNARI Florian** alias [@Vellass](https://github.com/Velass) : Concepteur Développeur
+- **PREAUX Lucas** alias [@lpreaux](https://github.com/lpreaux) : Concepteur Développeur
+- **BONNAMY Richard** alias [@rbonnamy](https://github.com/rbonnamy) : Client (formateur [@DiginamicFormation](https://github.com/DiginamicFormation))
 
 ## Dépôts principaux
 
@@ -44,14 +46,6 @@ Contient la documentation technique et fonctionnelle du projet.
   - Description des règles métier
   - Guide d'utilisation de l'API avec exemples d'appels
   - Documentation sur les workflows SCRUM intégrés
-
-## Contribution
-
-Les contributions sont les bienvenues ! Veuillez suivre les directives suivantes :
-
-1. **Fork** le dépôt pertinent.
-2. Créez une **branche** descriptive (ex. `feature/authentication`).
-3. Envoyez une **pull request** avec une description claire de vos modifications.
 
 ## Licence
 
